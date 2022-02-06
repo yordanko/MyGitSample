@@ -1,4 +1,1 @@
-#myApp
-This is my git test app  
-Changed in master
-Third line
+It is completely new text
