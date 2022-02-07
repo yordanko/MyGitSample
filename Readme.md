@@ -5,3 +5,4 @@ Changed in master
 Third line
 Fourth line
 Here is one more change from master
+Change in master
